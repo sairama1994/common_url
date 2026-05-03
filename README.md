@@ -1,1 +1,10 @@
-# common_url
+http://example.com/home
+http://example.com/about
+http://example.com/home
+https://google.com
+http://example.com/home
+https://openai.com
+https://google.com
+http://example.com/contact
+https://openai.com
+https://openai.com
